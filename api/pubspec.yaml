@@ -13,7 +13,33 @@ dependencies:
   #https://pub.dev/packages/shelf_router
   shelf_router: ^1.1.2
   #https://pub.dev/packages/shelf_router_generator
-  shelf_router_generator: ^1.0.2
+  #shelf_router_generator: ^1.0.2
+
+  #https://pub.dev/packages/bones_api
+  bones_api: ^1.1.11
+
+  #https://pub.dev/packages/mercury_client
+  mercury_client: ^2.1.4
+
+  #https://pub.dev/packages/retrofit
+  retrofit: ^3.0.1+1
+
+  #https://pub.dev/packages/logger
+  logger: ^1.1.0
+
+  #https://pub.dev/packages/json_annotation
+  json_annotation: ^4.4.0
+
+  dio: ^4.0.6
+
+  get_it: ^7.2.0
+
+  dartz: ^0.10.1
+
+  hive_generator: ^1.1.2
 
 dev_dependencies:
-  lints: ^1.0.0
+  retrofit_generator: '>=4.0.0 <5.0.0'
+  build_runner: ^2.1.4
+  json_serializable: ^6.1.6
+  analyzer: ^3.0.0
